@@ -108,6 +108,13 @@ a {
     margin: 0px;
 }
 
+.text_14 {
+    font-size: 50px;
+    margin: 0px;
+    margin-bottom: 15px;
+    padding: 0px;
+}
+
 .buton {
     text-align: center;
 }
@@ -125,12 +132,15 @@ a {
 .text_3 {
     color: #ffffff;
     font-size: 13px;
-    line-height: 45px;
+    line-height: 38px;
     font-family: Barlow;
     text-align: center;
     font-weight: 500;
 }
-
+.text_15{
+    font-size: 16px;
+    padding: 5px;
+}
 .button_2 {
     background-color: rgb(101, 46, 121);
 }
@@ -152,7 +162,11 @@ a {
     float: left;
     padding: 70px 0px;
 }
-
+.img_4{
+    width: 50%;
+    float: left;
+    padding: 0 0 0 1%;
+}
 .img_1 {
     width: 440px;
 }
@@ -161,11 +175,17 @@ a {
     width: 50%;
     float: left;
 }
-
+.paragraph_3{
+    width: 50%;
+    float: left;
+}
 .paragraph_1 {
     padding: 0 0 0 12%;
 }
 
+.paragraph_4{
+
+}
 .us {
     padding: 70px 0px;
 }
@@ -199,7 +219,7 @@ a {
 .text_8 {
     color: #897db3;
     font-family: Barlow, Arial, Tahoma, sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     line-height: 28px;
     margin: 0px 0px 15px;
 }
@@ -264,4 +284,191 @@ a {
     width: 140px;
     margin: 10px;
     border-radius: 6px;
+}
+
+.button_4{
+    width: 150px;
+    height: 50px;
+    margin: 24px;
+}
+.bg_img_2 {
+    background-image: url(../images/party2-sectionbg3.jpg);
+    width: 100%;
+    background-size: cover;
+    padding-bottom: 120px;
+}
+
+.bg_img_1 {
+    width: 70%;
+    margin: auto;
+    overflow: auto;
+}
+
+.container {
+    padding: 130px 0px;
+}
+
+.container_heading {
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 600;
+    letter-spacing: 0px;
+    color: #4bd3d4;
+    text-align: center;
+    margin: 10px 0px;
+    font-family: "Barlow", Arial, Tahoma, sans-serif;
+}
+
+.text_10 {
+    padding: 0px;
+}
+
+.card {
+    width: 33.33%;
+    float: left;
+}
+
+.container_1 {
+    background-color: #150e2d;
+    padding: 45px 13%;
+    margin: 15px;
+    border-radius: 40px 0 40px 0;
+}
+
+.cont_image {
+    width: 227px;
+    margin-top: -100px;
+}
+
+.container_heading_1 {
+    color: #4bd3d4;
+    text-align: center;
+    font-size: 32px;
+    line-height: 42px;
+    margin-top: 0px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    padding-top: 35px;
+    font-family: "DM Serif Display", Arial, Tahoma, sans-serif;
+    margin-bottom: 15px;
+}
+
+.text_12 {
+    text-align: center;
+    margin: 0 auto 35px;
+}
+
+.container_paragraph {
+    color: #ffffff;
+    margin: 0px;
+    font-family: Barlow, Arial, Tahoma, sans-serif;
+}
+
+.text_13 {
+    margin-top: 20px;
+}
+
+.container_bg_4 {
+    padding-top: 120px;
+    padding-bottom: 80px;
+    background-color: #0c071d;
+
+}
+
+.container_bg {
+    width: 70%;
+    margin: auto;
+    overflow: auto;
+}
+
+.container_card_1 {
+    width: 33.33%;
+    float: left;
+    padding: 50px;
+    text-align: center;
+}
+
+.container_card_2 {
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+    text-align: center;
+}
+
+.container_card_image {}
+
+.container_head {}
+
+.container_head_1 {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    font-family: "DM Serif Display", Arial, Tahoma, sans-serif;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.continer_section_para {
+    color: #897db3;
+    font-family: Barlow, Arial, Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+    margin: 0px 0px 15px;
+}
+.party_img{
+    width: 520px;
+}
+.paragraph_2{
+    padding: 40px 0 0 15%;
+}
+.about_1{
+    font-size: 32px;
+    line-height: 42px;
+    font-weight: 400;
+    font-family: "DM Serif Display", Arial, Tahoma, sans-serif;
+    color: #ffffff;
+}
+.middle_section{
+    position: relative;
+}
+.bg_img_5{
+    background-image: url(../images/party2-sectionbg5.jpg);
+    background-size: cover;
+    padding: 30px 0px 140px;
+}
+.container_5{
+    padding: 12px;
+    padding-bottom: 140px;
+}
+.tex{
+ font-size: 50px;
+ margin: 0px;
+ padding: 0px;
+}
+.head_2{
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+.con_2{
+    background-color: #231946;
+}
+.con_3{
+    background-color: #150e2d;
+}
+.container_text{
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 33px;
+}
+.container_header{
+    font-size: 50px;
+    line-height: 50px;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 15px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: "DM Serif Display", Arial, Tahoma, sans-serif;
 }
